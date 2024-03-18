@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+	border: 0;
+	font-family: Raleway, sans-serif;
+	background-color: #000000;
+	color: #ffffff;
+
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+
+
+/* Primera seccion palabra iguana--------------- */
+
+.header {
+    font-size: 50px;
+	font-weight: 500;
+	color: #ffffff;
+	margin: 0;
+	padding:  0;
+	text-align: center;
+}
+
+/*  Segunda seccion iguanana grande  -------------*/
+.big-img{
+    width: 100%;
+}
+
+.segunda {
+    background-color: #000000;
+	margin: 0;
+	padding: 45px 0;
+}
+
+/* 3era  seccion parrafo con imagen al lado */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container-text{
+    width: 60%;
+	display: inline-block;
+	padding-right: 20px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.img-derecha {
+    display: inline-block;
+	width: 30%;	
+	vertical-align: middle;
+}
+
+.img-derecha img {
+    width: 100%;
+}
+
+/* menu 4ta seccion ---------------------------- */
+
+.seccion-iconos {
+    background-color: #1E1A13;
+	text-align: center;
+	padding: 50px;
+}
+
+.seccion-iconos h2 {
+    font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.iconos {
+    display: inline-block;
+	width: 30%;
+}
+
+.iconos p{
+    font-size: 25px;
+	font-weight: 300;
+}
+
+/* 5ta seccion ---------------------------- */
+
+.seccion imagenes {
+    text-align: center;
+	padding: 75px 0;
+}
+
+.image {
+    display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+.image img {
+    width: 90%;
+}
+
+footer {
+    background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+}
+
+footer a{
+    text-decoration: none;
+	color: white;
+}
